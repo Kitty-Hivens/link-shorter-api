@@ -74,7 +74,7 @@ Create a new short link from a long URL.
 
 ```json
 {
-  "originalUrl": "[https://www.google.com/search?q=spring+boot+docker](https://www.google.com/search?q=spring+boot+docker)"
+  "originalUrl": "https://www.google.com/search?q=spring+boot+docker"
 }
 ```
 
@@ -83,7 +83,7 @@ Create a new short link from a long URL.
 ```json
 {
   "shortUrl": "http://localhost:8080/1bX",
-  "originalUrl": "[https://www.google.com/search?q=spring+boot+docker](https://www.google.com/search?q=spring+boot+docker)"
+  "originalUrl": "https://www.google.com/search?q=spring+boot+docker"
 }
 ```
 
