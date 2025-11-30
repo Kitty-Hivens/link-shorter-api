@@ -37,8 +37,8 @@ You don't need Java or MariaDB installed locally. Just **Docker**.
 
 ### 1. Clone the repository
 ```bash
-git clone [https://github.com/Kitty-Hivens/link-shorter-api.git](https://github.com/Kitty-Hivens/link-shorter-api.git)
-cd linkshorter
+git clone https://github.com/Kitty-Hivens/link-shorter-api.git
+cd link-shorter-api
 ````
 
 ### 2\. Configure & Run
